@@ -1,0 +1,1 @@
+This is the first practice project of The Odin Project. The purpose of this project is to practice working with headings, images, links, ordered and unordered lists. The project also helps provide additional practice in using Git and GitHub. 
